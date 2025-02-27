@@ -20,7 +20,7 @@ This project allows users to upload PDFs containing information about drugs and 
 ### Steps
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/TharaBhaiDoraemon/drug-summary-chatbot.git
+    git clone https://github.com/ASK-Puzzles/Healthcare_Transformation.git
     cd drug-summary-chatbot
     ```
 
